@@ -7,9 +7,9 @@
 - CRUD Application
 - Datasets
 - Data Labeling
-- Data Prerpocess
-- Nureal Network
+- Data Preprocessing
 - CNN
-- How to Deep Learning
-- Image Classification
-- Object Detection Project
+- Deep Learning
+- Classification
+- Object Detection
+- Segmentation
