@@ -3,6 +3,7 @@
 
 - Python
 - AI basic
+- YOLO
 - Cloud
 - CRUD Application
 - Datasets
