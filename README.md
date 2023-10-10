@@ -5,7 +5,6 @@
 - AI basic
 - YOLO
 - Cloud
-- CRUD Application
 - Datasets
 - Data Labeling
 - Data Preprocessing
